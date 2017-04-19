@@ -2,3 +2,8 @@ Nome do artefato: Fernando.txt
 Nome do autor: Fernando em Goias5
 Data de criação: 18/04/2017
 Hora de criação: 16:14:23
+
+Nome do artefato: Fernando.txt
+Nome do autor da alteração: Goias6
+Data da alteração: 19/04/2017
+Hora da alteração: 11:50:32
