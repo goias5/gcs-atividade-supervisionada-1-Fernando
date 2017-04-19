@@ -2,3 +2,8 @@ Nome do artefato: Goias6.txt
 Nome do autor: Goias6
 Data de criação: 19/04/2017
 Hora de criação: 11:33:33
+
+Nome do artefato: Goias6.txt
+Nome do autor da alteração: Fernando
+Data da alteração: 19/04/2017
+Hora da alteração: 11:55:21
