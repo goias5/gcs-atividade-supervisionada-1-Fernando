@@ -1,0 +1,5 @@
+Nome do artefato: Fernando-DocumentoCriadoNoTrunk.txt
+Nome do autor: Fernando
+Data de criação: 19/04/2017
+Hora de criação: 23:33:12
+Documento criado no trunk
