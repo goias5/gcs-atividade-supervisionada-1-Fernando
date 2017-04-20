@@ -1,10 +1,12 @@
 Nome do artefato: Fernando8.txt
 Nome do autor: Fernando em Goias5
-Alterações
-Novas
-Linhas
+
+O conflito foi resolvido com essa linha aqui e excluindo as outras
+ta bÃ£o assim
+
+
 No
 Documento
-Data de criação: 28/09/2217
-Hora de criação: 12:18:25
-Alterei até a data pro futuro
+Data de criaÃ§Ã£o: 28/09/2217
+Hora de criaÃ§Ã£o: 12:18:25
+Alterei atÃ© a data pro futuro
