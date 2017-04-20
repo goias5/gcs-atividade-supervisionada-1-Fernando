@@ -1,6 +1,12 @@
 Nome do artefato: Fernando8.txt
 Nome do autor: Fernando em Goias5
-Data de criação: 15/04/2017
-Linha extra entre o conteúdo hajha
-Hora de criação: 23:08:25
-Linha extra no final também
+
+O conflito foi resolvido com essa linha aqui e excluindo as outras
+ta bão assim
+
+
+No
+Documento
+Data de criação: 28/09/2217
+Hora de criação: 12:18:25
+Alterei até a data pro futuro
