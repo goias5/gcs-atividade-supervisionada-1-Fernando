@@ -1,4 +1,8 @@
 Nome do artefato: Goias6-outroDoc5.txt
 Nome do autor: Goias6
-Data de criaÁ„o: 19/04/2017
-Hora de criaÁ„o: 12:04:01
+Linhas
+Extras
+atoas
+Data de cria√ß√£o: 22/04/2017 altera√ß√£ozinha
+Hora de cria√ß√£o: 12:04:01
+Linha a mais no fim
